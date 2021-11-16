@@ -33,7 +33,7 @@ const DetailScreen = () => {
 };
 
 export default DetailScreen;
-////
+//////
 const styles = StyleSheet.create({
   main: {
     width: windowWidth,
