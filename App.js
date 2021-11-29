@@ -6,8 +6,9 @@ import WelcomeScreen from './src/pages/WelcomeScreen';
 
 export default function App() {
   return (
-<DetailScreen />
+<WelcomeScreen />
   );
 }
 
 
+//

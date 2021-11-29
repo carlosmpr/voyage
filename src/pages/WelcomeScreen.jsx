@@ -10,8 +10,7 @@ const WelcomeScreen = () => {
       <Image source={image} style={styles.image} />
       <View style={{padding:25}}>
       <Text style={styles.title}>Voyage</Text>
-    <Text style={{color:'white'}}>Which planet
-would you like to explore?</Text>
+    <Text style={{color:'white'}}>Explore the Galaxies and beyond</Text>
 
 </View>
 <View style={styles.button}>
